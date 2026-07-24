@@ -1,0 +1,1004 @@
+[
+  {
+    "id": 1,
+    "name": "Ibrahim Al-Akdar",
+    "server": "https://server6.mp3quran.net/akdr/",
+    "nameRu": "Ибрахим Аль-Акдар"
+  },
+  {
+    "id": 10,
+    "name": "Akram Al-Alaqmi",
+    "server": "https://server9.mp3quran.net/akrm/",
+    "nameRu": "Акрам Аль-Алакми"
+  },
+  {
+    "id": 102,
+    "name": "Maher Al-Muaiqly",
+    "server": "https://server12.mp3quran.net/maher/Almusshaf-Al-Mojawwad/",
+    "nameRu": "Махер Аль-Муайкли"
+  },
+  {
+    "id": 106,
+    "name": "Muhammad Al-Tablawi",
+    "server": "https://server12.mp3quran.net/tblawi/Al-Mojawwad/",
+    "nameRu": "Мухаммад Аль-Таблави"
+  },
+  {
+    "id": 107,
+    "name": "Muhammad Al-Luhaidan",
+    "server": "https://server8.mp3quran.net/lhdan/",
+    "nameRu": "Мухаммад Аль-Лухайдан"
+  },
+  {
+    "id": 108,
+    "name": "Muhammad Al-Muhasny",
+    "server": "https://server11.mp3quran.net/mhsny/",
+    "nameRu": "Мухаммад Аль-Мухасни"
+  },
+  {
+    "id": 109,
+    "name": "Muhammad Ayyub",
+    "server": "https://server16.mp3quran.net/ayyoub2/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Мухаммад Айюб"
+  },
+  {
+    "id": 110,
+    "name": "Muhammad Saleh Alim Shah",
+    "server": "https://server12.mp3quran.net/shah/",
+    "nameRu": "Мухаммад Салех Алим Шах"
+  },
+  {
+    "id": 111,
+    "name": "Muhammad Jibreel",
+    "server": "https://server8.mp3quran.net/jbrl/",
+    "nameRu": "Мухаммад Джибриль"
+  },
+  {
+    "id": 112,
+    "name": "Muhammad Siddiq Al-Minshawi",
+    "server": "https://server10.mp3quran.net/minsh/Almusshaf-Al-Mo-lim/",
+    "nameRu": "Мухаммад Сиддик Аль-Миншави"
+  },
+  {
+    "id": 115,
+    "name": "Muhammad Abdul Kareem",
+    "server": "https://server12.mp3quran.net/m_krm/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Abi-Baker-Alasbahani/",
+    "nameRu": "Мухаммад Абдул Карим"
+  },
+  {
+    "id": 116,
+    "name": "Muhammad Al-Abdullah",
+    "server": "https://server9.mp3quran.net/abdullah/Rewayat-AlDorai-A-n-Al-Kisa-ai/",
+    "nameRu": "Мухаммад Аль-Абдуллах"
+  },
+  {
+    "id": 118,
+    "name": "Mahmoud Khalil Al-Husary",
+    "server": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/",
+    "nameRu": "Махмуд Халиль Аль-Хусари"
+  },
+  {
+    "id": 12,
+    "name": "Idrees Abkar",
+    "server": "https://server6.mp3quran.net/abkr/",
+    "nameRu": "Идрис Абкар"
+  },
+  {
+    "id": 121,
+    "name": "Mahmoud Ali Al-Banna",
+    "server": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/",
+    "nameRu": "Махмуд Али Аль-Банна"
+  },
+  {
+    "id": 123,
+    "name": "Mishary Rashid Alafasy",
+    "server": "https://server8.mp3quran.net/afs/",
+    "nameRu": "Мишари Рашид Аль-Афаси"
+  },
+  {
+    "id": 125,
+    "name": "Mustafa Ismail",
+    "server": "https://server8.mp3quran.net/mustafa/Almusshaf-Al-Mojawwad/",
+    "nameRu": "Мустафа Исмаил"
+  },
+  {
+    "id": 126,
+    "name": "Mustafa Al-Lahoni",
+    "server": "https://server6.mp3quran.net/lahoni/",
+    "nameRu": "Мустафа Аль-Лахони"
+  },
+  {
+    "id": 127,
+    "name": "Mustafa Raad Al-Azzawi",
+    "server": "https://server8.mp3quran.net/ra3ad/",
+    "nameRu": "Мустафа Раад Аль-Аззави"
+  },
+  {
+    "id": 129,
+    "name": "Muftah Al-Sultany",
+    "server": "https://server14.mp3quran.net/muftah_sultany/Rewayat_Ibn-Thakwan-A-n-Ibn-Amer/",
+    "nameRu": "Муфтах Аль-Султани"
+  },
+  {
+    "id": 13,
+    "name": "Al-Zain Muhammad Ahmad",
+    "server": "https://server9.mp3quran.net/alzain/",
+    "nameRu": "Аль-Зайн Мухаммад Ахмад"
+  },
+  {
+    "id": 134,
+    "name": "Muhammad Sayed",
+    "server": "https://server16.mp3quran.net/m_sayed/Rewayat-Warsh-A-n-Nafi/",
+    "nameRu": "Мухаммад Сайед"
+  },
+  {
+    "id": 136,
+    "name": "Abdul Ilah bin Aoun",
+    "server": "https://server16.mp3quran.net/a_binaoun/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдул Илах бин Аун"
+  },
+  {
+    "id": 138,
+    "name": "Noreen Muhammad Siddiq",
+    "server": "https://server16.mp3quran.net/nourin_siddig/Rewayat-Aldori-A-n-Abi-Amr/",
+    "nameRu": "Нурин Мухаммад Сиддик"
+  },
+  {
+    "id": 139,
+    "name": "Majed Al-Zamil",
+    "server": "https://server9.mp3quran.net/zaml/",
+    "nameRu": "Маджид Аль-Замиль"
+  },
+  {
+    "id": 14,
+    "name": "Al-Qaria Yassen",
+    "server": "https://server11.mp3quran.net/qari/",
+    "nameRu": "Аль-Кари Ясин"
+  },
+  {
+    "id": 149,
+    "name": "Maher Shakhashero",
+    "server": "https://server10.mp3quran.net/shaksh/",
+    "nameRu": "Махер Шахшеро"
+  },
+  {
+    "id": 151,
+    "name": "Mahmoud Al-Sheimy",
+    "server": "https://server10.mp3quran.net/sheimy/",
+    "nameRu": "Махмуд Аль-Шейми"
+  },
+  {
+    "id": 152,
+    "name": "Yasser Salamah",
+    "server": "https://server12.mp3quran.net/salamah/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Ясир Салама"
+  },
+  {
+    "id": 159,
+    "name": "Khalid Al-Mohana",
+    "server": "https://server11.mp3quran.net/mohna/",
+    "nameRu": "Халид Аль-Мохана"
+  },
+  {
+    "id": 16,
+    "name": "Aloyoon Al-Koshi",
+    "server": "https://server11.mp3quran.net/koshi/",
+    "nameRu": "Аль-Аюн Аль-Коши"
+  },
+  {
+    "id": 160,
+    "name": "Adel Al-Khalbany",
+    "server": "https://server8.mp3quran.net/a_klb/",
+    "nameRu": "Адиль Аль-Кальбани"
+  },
+  {
+    "id": 161,
+    "name": "Mousa Bilal",
+    "server": "https://server11.mp3quran.net/bilal/",
+    "nameRu": "Муса Билал"
+  },
+  {
+    "id": 163,
+    "name": "Hatem Fareed Al-Waer",
+    "server": "https://server11.mp3quran.net/hatem/",
+    "nameRu": "Хатем Фарид Аль-Ваер"
+  },
+  {
+    "id": 164,
+    "name": "Ibrahim Al-Jormy",
+    "server": "https://server11.mp3quran.net/jormy/",
+    "nameRu": "Ибрахим Аль-Джорми"
+  },
+  {
+    "id": 165,
+    "name": "Mahmoud Al-Rifai",
+    "server": "https://server11.mp3quran.net/mrifai/",
+    "nameRu": "Махмуд Аль-Рифаи"
+  },
+  {
+    "id": 17,
+    "name": "Tawfeeq As-Sayegh",
+    "server": "https://server6.mp3quran.net/twfeeq/",
+    "nameRu": "Тауфик Ас-Сайег"
+  },
+  {
+    "id": 178,
+    "name": "Ibrahim Al-Dosari",
+    "server": "https://server10.mp3quran.net/ibrahim_dosri/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Ибрахим Аль-Досари"
+  },
+  {
+    "id": 18,
+    "name": "Jamal Shaker Abdullah",
+    "server": "https://server6.mp3quran.net/jamal/",
+    "nameRu": "Джамаль Шакер Абдуллах"
+  },
+  {
+    "id": 181,
+    "name": "Jamaan Al-Osaimi",
+    "server": "https://server6.mp3quran.net/jaman/",
+    "nameRu": "Джамаан Аль-Осаими"
+  },
+  {
+    "id": 193,
+    "name": "Yousef Bin Noah Ahmad",
+    "server": "https://server8.mp3quran.net/noah/",
+    "nameRu": "Юсуф бин Нух Ахмад"
+  },
+  {
+    "id": 197,
+    "name": "Moeedh Al-Harthi",
+    "server": "https://server8.mp3quran.net/harthi/",
+    "nameRu": "Муид Аль-Харти"
+  },
+  {
+    "id": 198,
+    "name": "Muhammad Rashad Al-Sharif",
+    "server": "https://server10.mp3quran.net/rashad/",
+    "nameRu": "Мухаммад Рашад Аль-Шариф"
+  },
+  {
+    "id": 20,
+    "name": "Khalid Al-Jileel",
+    "server": "https://server10.mp3quran.net/jleel/",
+    "nameRu": "Халид Аль-Джалиль"
+  },
+  {
+    "id": 201,
+    "name": "Ahmed Al-Trabulsi",
+    "server": "https://server10.mp3quran.net/trabulsi/",
+    "nameRu": "Ахмад Аль-Трабулси"
+  },
+  {
+    "id": 202,
+    "name": "Abdullah Al-Kandari",
+    "server": "https://server10.mp3quran.net/Abdullahk/",
+    "nameRu": "Абдуллах Аль-Кандари"
+  },
+  {
+    "id": 203,
+    "name": "Ahmed Amer",
+    "server": "https://server10.mp3quran.net/Aamer/",
+    "nameRu": "Ахмад Амер"
+  },
+  {
+    "id": 206,
+    "name": "Muhammad Osman Khan",
+    "server": "https://server6.mp3quran.net/khan/",
+    "nameRu": "Мухаммад Осман Хан"
+  },
+  {
+    "id": 208,
+    "name": "Addokali Muhammad Al-Alim",
+    "server": "https://server7.mp3quran.net/dokali/",
+    "nameRu": "Аддукали Мухаммад Аль-Алим"
+  },
+  {
+    "id": 21,
+    "name": "Khaled Al-Qahtani",
+    "server": "https://server10.mp3quran.net/qht/",
+    "nameRu": "Халид Аль-Кахтани"
+  },
+  {
+    "id": 211,
+    "name": "Al-Fateh Al-Zubair",
+    "server": "https://server6.mp3quran.net/fateh/",
+    "nameRu": "Аль-Фатех Аль-Зубайр"
+  },
+  {
+    "id": 21136,
+    "name": "Abdullah Al-Qarafi",
+    "server": "https://server16.mp3quran.net/a_alqrafi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдуллах Аль-Карафи"
+  },
+  {
+    "id": 21148,
+    "name": "Abdul Badi Ghailan",
+    "server": "https://server16.mp3quran.net/A-Ghailan/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдул Бади Гайлан"
+  },
+  {
+    "id": 21181,
+    "name": "Muhammad Burhaji",
+    "server": "https://server16.mp3quran.net/M_Burhaji/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Мухаммад Бурхаджи"
+  },
+  {
+    "id": 21183,
+    "name": "Hassan Aldaghriri",
+    "server": "https://server16.mp3quran.net/H-Aldaghriri/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Хасан Аль-Дагрири"
+  },
+  {
+    "id": 21184,
+    "name": "Muhammad Al Faqih",
+    "server": "https://server16.mp3quran.net/M_Alfaqih/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Мухаммад Аль-Факих"
+  },
+  {
+    "id": 21186,
+    "name": "Junaid Adam Abdullah",
+    "server": "https://server16.mp3quran.net/J-Abdullah/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Джунайд Адам Абдуллах"
+  },
+  {
+    "id": 21193,
+    "name": "Abdul Rahman bin Abdul Razzaq Al Badr",
+    "server": "https://server16.mp3quran.net/A-AlBadr/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдул Рахман бин Абдул Раззак Аль-Бадр"
+  },
+  {
+    "id": 21196,
+    "name": "Alijon Qori",
+    "server": "https://server16.mp3quran.net/Alijon/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Алиджон Кори"
+  },
+  {
+    "id": 21197,
+    "name": "Muhammad Al-Zubaidi",
+    "server": "https://server16.mp3quran.net/M-AlZubaidi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Мухаммад Аль-Зубайди"
+  },
+  {
+    "id": 21199,
+    "name": "Abdel Moujib Benkirane",
+    "server": "https://server16.mp3quran.net/A-Benkirane/Rewayat-Warsh-A-n-Nafi/",
+    "nameRu": "Абдель Муджиб Бенкиран"
+  },
+  {
+    "id": 212,
+    "name": "Tareq Abdul Ghani Daawob",
+    "server": "https://server10.mp3quran.net/tareq/",
+    "nameRu": "Тарик Абдул Гани Даавоб"
+  },
+  {
+    "id": 217,
+    "name": "Bandar Balilah",
+    "server": "https://server6.mp3quran.net/balilah/",
+    "nameRu": "Бандар Балилах"
+  },
+  {
+    "id": 219,
+    "name": "Wadeea Al-Yamani",
+    "server": "https://server6.mp3quran.net/wdee3/",
+    "nameRu": "Вади Аль-Ямани"
+  },
+  {
+    "id": 22,
+    "name": "Khalid Abdul Kafi",
+    "server": "https://server11.mp3quran.net/kafi/",
+    "nameRu": "Халид Абдул Кафи"
+  },
+  {
+    "id": 221,
+    "name": "Raad Al Kurdi",
+    "server": "https://server6.mp3quran.net/kurdi/",
+    "nameRu": "Раад Аль-Курди"
+  },
+  {
+    "id": 225,
+    "name": "Abdul Rahman Al-Ossi",
+    "server": "https://server6.mp3quran.net/aloosi/",
+    "nameRu": "Абдул Рахман Аль-Осси"
+  },
+  {
+    "id": 229,
+    "name": "Muhammad Khalil Al-Qari",
+    "server": "https://server8.mp3quran.net/m_qari/",
+    "nameRu": "Мухаммад Халиль Аль-Кари"
+  },
+  {
+    "id": 230,
+    "name": "Rami Aldeais",
+    "server": "https://server6.mp3quran.net/rami/",
+    "nameRu": "Рами Аль-Деаис"
+  },
+  {
+    "id": 236,
+    "name": "Abdul Rahman Al-Majed",
+    "server": "https://server10.mp3quran.net/a_majed/",
+    "nameRu": "Абдул Рахман Аль-Маджид"
+  },
+  {
+    "id": 237,
+    "name": "Marwan Al-Akri",
+    "server": "https://server16.mp3quran.net/m_akri/Rewayat-Qalon-A-n-Nafi/",
+    "nameRu": "Марван Аль-Акри"
+  },
+  {
+    "id": 24,
+    "name": "Khalifa Al-Tunaiji",
+    "server": "https://server12.mp3quran.net/tnjy/",
+    "nameRu": "Халифа Аль-Тунайджи"
+  },
+  {
+    "id": 243,
+    "name": "Abdullah Al-Mousa",
+    "server": "https://server14.mp3quran.net/mousa/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдуллах Аль-Муса"
+  },
+  {
+    "id": 244,
+    "name": "Abdullah Al-Khalaf",
+    "server": "https://server14.mp3quran.net/khalf/",
+    "nameRu": "Абдуллах Аль-Халаф"
+  },
+  {
+    "id": 245,
+    "name": "Mansour Al-Salemi",
+    "server": "https://server14.mp3quran.net/mansor/",
+    "nameRu": "Мансур Аль-Салими"
+  },
+  {
+    "id": 248,
+    "name": "Nasser Al-Osfor",
+    "server": "https://server14.mp3quran.net/alosfor/",
+    "nameRu": "Нассер Аль-Осфор"
+  },
+  {
+    "id": 25,
+    "name": "Dawood Hamza",
+    "server": "https://server9.mp3quran.net/hamza/",
+    "nameRu": "Давуд Хамза"
+  },
+  {
+    "id": 250,
+    "name": "Muhammad Al-Bukheet",
+    "server": "https://server14.mp3quran.net/bukheet/",
+    "nameRu": "Мухаммад Аль-Бухайт"
+  },
+  {
+    "id": 251,
+    "name": "Nasser Al-Majed",
+    "server": "https://server14.mp3quran.net/nasser_almajed/",
+    "nameRu": "Нассер Аль-Маджид"
+  },
+  {
+    "id": 252,
+    "name": "Ahmed Al-Swailem",
+    "server": "https://server14.mp3quran.net/swlim/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Ахмад Аль-Сувайлем"
+  },
+  {
+    "id": 254,
+    "name": "Badr Al-Turki",
+    "server": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Бадр Аль-Турки"
+  },
+  {
+    "id": 256,
+    "name": "Ahmad Shaheen",
+    "server": "https://server16.mp3quran.net/shaheen/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Ахмад Шахин"
+  },
+  {
+    "id": 257,
+    "name": "Saad Al-Muqrin",
+    "server": "https://server16.mp3quran.net/saad/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Саад Аль-Мукрин"
+  },
+  {
+    "id": 259,
+    "name": "Ahmad Al-Nufais",
+    "server": "https://server16.mp3quran.net/nufais/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Ахмад Аль-Нуфайс"
+  },
+  {
+    "id": 265,
+    "name": "Ahmad Deban",
+    "server": "https://server16.mp3quran.net/deban/Rewayat-Warsh-A-n-Nafi-Men-Tariq-Alazraq/",
+    "nameRu": "Ахмад Дебан"
+  },
+  {
+    "id": 267,
+    "name": "Abdullah Kamel",
+    "server": "https://server16.mp3quran.net/kamel/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдуллах Камель"
+  },
+  {
+    "id": 268,
+    "name": "Peshawa Qadr Al-Kurdi",
+    "server": "https://server16.mp3quran.net/peshawa/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Пешава Кадр Аль-Курди"
+  },
+  {
+    "id": 27,
+    "name": "Rachid Belalya",
+    "server": "https://server6.mp3quran.net/bl3/Rewayat-Warsh-A-n-Nafi/",
+    "nameRu": "Рашид Белаля"
+  },
+  {
+    "id": 271,
+    "name": "Nathier Al-Malki",
+    "server": "https://server16.mp3quran.net//nathier/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Назир Аль-Малки"
+  },
+  {
+    "id": 272,
+    "name": "Okasha Kameny",
+    "server": "https://server16.mp3quran.net/okasha/Rewayat-Albizi-A-n-Ibn-Katheer/",
+    "nameRu": "Окаша Камени"
+  },
+  {
+    "id": 273,
+    "name": "Haitham Al-Dukhain",
+    "server": "https://server16.mp3quran.net/h_dukhain/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Хайсам Аль-Духайн"
+  },
+  {
+    "id": 274,
+    "name": "Muhammad Abu Sneina",
+    "server": "https://server16.mp3quran.net/sneineh/Rewayat-Qalon-A-n-Nafi/",
+    "nameRu": "Мухаммад Абу Снейна"
+  },
+  {
+    "id": 275,
+    "name": "Muhammad Al-Amin Qeniwa",
+    "server": "https://server16.mp3quran.net/qeniwa/Rewayat-Qalon-A-n-Nafi/",
+    "nameRu": "Мухаммад Аль-Амин Кенива"
+  },
+  {
+    "id": 277,
+    "name": "Mahmoud Abdul Hakam",
+    "server": "https://server16.mp3quran.net/m_abdelhakam/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Махмуд Абдул Хакам"
+  },
+  {
+    "id": 278,
+    "name": "Ahmad Issa Al-Maasarawi",
+    "server": "https://server16.mp3quran.net/a_maasaraawi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Ахмад Исса Аль-Маасарави"
+  },
+  {
+    "id": 279,
+    "name": "Ibrahim Kshidan",
+    "server": "https://server16.mp3quran.net/i_kshidan/Rewayat-Qalon-A-n-Nafi/",
+    "nameRu": "Ибрахим Кшидан"
+  },
+  {
+    "id": 280,
+    "name": "Hashim Abu Dalal",
+    "server": "https://server16.mp3quran.net/h_abudalal/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Хашим Абу Далал"
+  },
+  {
+    "id": 281,
+    "name": "Fouad Al-Khamery",
+    "server": "https://server16.mp3quran.net/f_khamery/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Фуад Аль-Хамери"
+  },
+  {
+    "id": 282,
+    "name": "Sayed Ahmad Hashemi",
+    "server": "https://server16.mp3quran.net/s_hashemi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Сайед Ахмад Хашеми"
+  },
+  {
+    "id": 283,
+    "name": "Khalid Mohammadi",
+    "server": "https://server16.mp3quran.net/kh_mohammadi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Халид Мохаммади"
+  },
+  {
+    "id": 284,
+    "name": "Mal-Allah Abdul Rahman Al-Jaber",
+    "server": "https://server16.mp3quran.net/mal-allah_jaber/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Мал-Аллах Абдул Рахман Аль-Джабер"
+  },
+  {
+    "id": 285,
+    "name": "Salman Al-Sadeiq",
+    "server": "https://server16.mp3quran.net/s_sadeiq/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Салман Аль-Садик"
+  },
+  {
+    "id": 286,
+    "name": "Hasan Saleh",
+    "server": "https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Хасан Салех"
+  },
+  {
+    "id": 287,
+    "name": "Abdul Rahman Al-Shahhat",
+    "server": "https://server16.mp3quran.net/a_alshahhat/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдул Рахман Аль-Шаххат"
+  },
+  {
+    "id": 288,
+    "name": "Issa Omar Sanankoua",
+    "server": "https://server16.mp3quran.net/i_sanankoua/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Исса Омар Сананкуа"
+  },
+  {
+    "id": 290,
+    "name": "Saleh Al-Quraishi",
+    "server": "https://server16.mp3quran.net/s_alquraishi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Салех Аль-Курайши"
+  },
+  {
+    "id": 3,
+    "name": "Ibrahim Al-Asiri",
+    "server": "https://server6.mp3quran.net/3siri/",
+    "nameRu": "Ибрахим Аль-Асири"
+  },
+  {
+    "id": 30,
+    "name": "Saad Al-Ghamdi",
+    "server": "https://server7.mp3quran.net/s_gmd/",
+    "nameRu": "Саад Аль-Гамди"
+  },
+  {
+    "id": 300,
+    "name": "Saleh Al-Shamrani",
+    "server": "https://server16.mp3quran.net/shamrani/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Салех Аль-Шамрани"
+  },
+  {
+    "id": 301,
+    "name": "Faisal Al-Hajry",
+    "server": "https://server16.mp3quran.net/f_hajry/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Файсал Аль-Хаджри"
+  },
+  {
+    "id": 302,
+    "name": "Anas Al-Emadi",
+    "server": "https://server16.mp3quran.net/a_alemadi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Анас Аль-Эмади"
+  },
+  {
+    "id": 304,
+    "name": "Abdul Kareem Al-Hazmi",
+    "server": "https://server16.mp3quran.net/a_alhazmi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдул Карим Аль-Хазми"
+  },
+  {
+    "id": 31,
+    "name": "Saud Al-Shuraim",
+    "server": "https://server7.mp3quran.net/shur/",
+    "nameRu": "Сауд Аль-Шурайм"
+  },
+  {
+    "id": 32,
+    "name": "Sahl Yassin",
+    "server": "https://server6.mp3quran.net/shl/",
+    "nameRu": "Сахль Ясин"
+  },
+  {
+    "id": 33,
+    "name": "Zaki Daghistani",
+    "server": "https://server9.mp3quran.net/zaki/",
+    "nameRu": "Заки Дагистани"
+  },
+  {
+    "id": 36,
+    "name": "Sayeed Ramadan",
+    "server": "https://server12.mp3quran.net/sayed/",
+    "nameRu": "Саид Рамадан"
+  },
+  {
+    "id": 38,
+    "name": "Shirazad Taher",
+    "server": "https://server12.mp3quran.net/taher/",
+    "nameRu": "Ширазад Тахер"
+  },
+  {
+    "id": 39,
+    "name": "Saber Abdulhakm",
+    "server": "https://server12.mp3quran.net/hkm/",
+    "nameRu": "Сабер Абдул Хакам"
+  },
+  {
+    "id": 4,
+    "name": "Abu Bakr Al-Shatri",
+    "server": "https://server11.mp3quran.net/shatri/",
+    "nameRu": "Абу Бакр Аль-Шатри"
+  },
+  {
+    "id": 40,
+    "name": "Saleh Al-Sahood",
+    "server": "https://server8.mp3quran.net/sahood/",
+    "nameRu": "Салех Аль-Сахуд"
+  },
+  {
+    "id": 42,
+    "name": "Saleh Al-Habdan",
+    "server": "https://server6.mp3quran.net/habdan/",
+    "nameRu": "Салех Аль-Хабдан"
+  },
+  {
+    "id": 43,
+    "name": "Salah Al-Budair",
+    "server": "https://server6.mp3quran.net/s_bud/",
+    "nameRu": "Салах Аль-Будайр"
+  },
+  {
+    "id": 44,
+    "name": "Salah Al-Hashim",
+    "server": "https://server12.mp3quran.net/salah_hashim_m/",
+    "nameRu": "Салах Аль-Хашим"
+  },
+  {
+    "id": 46,
+    "name": "Salah Bukhatir",
+    "server": "https://server8.mp3quran.net/bu_khtr/",
+    "nameRu": "Салах Бухатир"
+  },
+  {
+    "id": 47,
+    "name": "Mukhtar Al-Haj",
+    "server": "https://server16.mp3quran.net/mukhtar_haj/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Мухтар Аль-Хадж"
+  },
+  {
+    "id": 48,
+    "name": "Adel Ryyan",
+    "server": "https://server8.mp3quran.net/ryan/",
+    "nameRu": "Адиль Райян"
+  },
+  {
+    "id": 49,
+    "name": "Abdel Bari Al-Toubayti",
+    "server": "https://server6.mp3quran.net/thubti/",
+    "nameRu": "Абдель Бари Аль-Тубайти"
+  },
+  {
+    "id": 5,
+    "name": "Ahmad Al-Ajmy",
+    "server": "https://server10.mp3quran.net/ajm/",
+    "nameRu": "Ахмад Аль-Аджми"
+  },
+  {
+    "id": 50,
+    "name": "Abdul Bari Muhammad",
+    "server": "https://server12.mp3quran.net/bari/",
+    "nameRu": "Абдул Бари Мухаммад"
+  },
+  {
+    "id": 51,
+    "name": "Abdul Basit Abdul Samad",
+    "server": "https://server7.mp3quran.net/basit/",
+    "nameRu": "Абдул Басит Абдул Самад"
+  },
+  {
+    "id": 54,
+    "name": "Abdul Rahman Al-Sudais",
+    "server": "https://server11.mp3quran.net/sds/",
+    "nameRu": "Абдул Рахман Аль-Судайс"
+  },
+  {
+    "id": 55,
+    "name": "Abdul Aziz Al-Ahmad",
+    "server": "https://server11.mp3quran.net/a_ahmed/",
+    "nameRu": "Абдул Азиз Аль-Ахмад"
+  },
+  {
+    "id": 56,
+    "name": "Abdul Aziz Az-Zahrani",
+    "server": "https://server9.mp3quran.net/zahrani/",
+    "nameRu": "Абдул Азиз Аз-Захрани"
+  },
+  {
+    "id": 58,
+    "name": "Abdullah Al-Buajan",
+    "server": "https://server8.mp3quran.net/buajan/",
+    "nameRu": "Абдуллах Аль-Буаджан"
+  },
+  {
+    "id": 59,
+    "name": "Abdullah Al-Mattrod",
+    "server": "https://server8.mp3quran.net/mtrod/",
+    "nameRu": "Абдуллах Аль-Матруд"
+  },
+  {
+    "id": 6,
+    "name": "Ahmad Al-Hawashi",
+    "server": "https://server11.mp3quran.net/hawashi/",
+    "nameRu": "Ахмад Аль-Хаваши"
+  },
+  {
+    "id": 60,
+    "name": "Abdullah Basfer",
+    "server": "https://server6.mp3quran.net/bsfr/",
+    "nameRu": "Абдуллах Басфар"
+  },
+  {
+    "id": 61,
+    "name": "Abdullah Khayyat",
+    "server": "https://server12.mp3quran.net/kyat/",
+    "nameRu": "Абдуллах Хайят"
+  },
+  {
+    "id": 62,
+    "name": "Abdullah Al-Johany",
+    "server": "https://server13.mp3quran.net/jhn/",
+    "nameRu": "Абдуллах Аль-Джухани"
+  },
+  {
+    "id": 63,
+    "name": "Abdullah Qaulan",
+    "server": "https://server8.mp3quran.net/gulan/",
+    "nameRu": "Абдуллах Каулан"
+  },
+  {
+    "id": 64,
+    "name": "Abdul Rasheed Soufi",
+    "server": "https://server16.mp3quran.net/soufi/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдул Рашид Суфи"
+  },
+  {
+    "id": 66,
+    "name": "Abdul Mohsin Al-Harthy",
+    "server": "https://server6.mp3quran.net/mohsin_harthi/",
+    "nameRu": "Абдул Мухсин Аль-Харти"
+  },
+  {
+    "id": 67,
+    "name": "Abdul Mohsin Al-Qasim",
+    "server": "https://server8.mp3quran.net/qasm/",
+    "nameRu": "Абдул Мухсин Аль-Касим"
+  },
+  {
+    "id": 69,
+    "name": "Abdul Mohsin Al-Obaikan",
+    "server": "https://server12.mp3quran.net/obk/",
+    "nameRu": "Абдул Мухсин Аль-Обейкан"
+  },
+  {
+    "id": 70,
+    "name": "Abdul Hadi Kanakeri",
+    "server": "https://server6.mp3quran.net/kanakeri/",
+    "nameRu": "Абдул Хади Канакери"
+  },
+  {
+    "id": 71,
+    "name": "Abdul Wadud Haneef",
+    "server": "https://server8.mp3quran.net/wdod/",
+    "nameRu": "Абдул Вадуд Ханиф"
+  },
+  {
+    "id": 72,
+    "name": "Abdul Wali Al-Arkani",
+    "server": "https://server6.mp3quran.net/arkani/",
+    "nameRu": "Абдул Вали Аль-Аркани"
+  },
+  {
+    "id": 74,
+    "name": "Ali Al-Huthaifi",
+    "server": "https://server9.mp3quran.net/hthfi/Rewayat-Sho-bah-A-n-Asim/",
+    "nameRu": "Али Аль-Хузайфи"
+  },
+  {
+    "id": 76,
+    "name": "Ali Jaber",
+    "server": "https://server11.mp3quran.net/a_jbr/",
+    "nameRu": "Али Джабер"
+  },
+  {
+    "id": 77,
+    "name": "Ali Hajjaj Al-Souasi",
+    "server": "https://server9.mp3quran.net/hajjaj/",
+    "nameRu": "Али Хаджадж Аль-Суаси"
+  },
+  {
+    "id": 78,
+    "name": "Emad Hafez",
+    "server": "https://server6.mp3quran.net/hafz/",
+    "nameRu": "Имад Хафез"
+  },
+  {
+    "id": 79,
+    "name": "Abdul Aziz Al-Turki",
+    "server": "https://server16.mp3quran.net/a_turki/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдул Азиз Аль-Турки"
+  },
+  {
+    "id": 8,
+    "name": "Ahmad Saber",
+    "server": "https://server8.mp3quran.net/saber/",
+    "nameRu": "Ахмад Сабер"
+  },
+  {
+    "id": 80,
+    "name": "Omar Al-Qazabri",
+    "server": "https://server9.mp3quran.net/omar_warsh/",
+    "nameRu": "Омар Аль-Казабри"
+  },
+  {
+    "id": 81,
+    "name": "Fares Abbad",
+    "server": "https://server8.mp3quran.net/frs_a/",
+    "nameRu": "Фарес Аббад"
+  },
+  {
+    "id": 86,
+    "name": "Nasser Al-Qatami",
+    "server": "https://server6.mp3quran.net/qtm/",
+    "nameRu": "Нассер Аль-Катами"
+  },
+  {
+    "id": 87,
+    "name": "Nabil Al-Rifai",
+    "server": "https://server9.mp3quran.net/nabil/",
+    "nameRu": "Набиль Аль-Рифаи"
+  },
+  {
+    "id": 88,
+    "name": "Neamah Al-Hassan",
+    "server": "https://server8.mp3quran.net/namh/",
+    "nameRu": "Нима Аль-Хасан"
+  },
+  {
+    "id": 89,
+    "name": "Hani Ar-Rifai",
+    "server": "https://server8.mp3quran.net/hani/",
+    "nameRu": "Хани Ар-Рифаи"
+  },
+  {
+    "id": 9,
+    "name": "Ahmad Nauina",
+    "server": "https://server11.mp3quran.net/ahmad_nu/",
+    "nameRu": "Ахмад Нуайна"
+  },
+  {
+    "id": 91,
+    "name": "Waleed Al-Naehi",
+    "server": "https://server9.mp3quran.net/waleed/",
+    "nameRu": "Валид Аль-Наехи"
+  },
+  {
+    "id": 92,
+    "name": "Yasser Al-Dosari",
+    "server": "https://server11.mp3quran.net/yasser/",
+    "nameRu": "Ясир Аль-Досари"
+  },
+  {
+    "id": 93,
+    "name": "Yasser Al-Qurashi",
+    "server": "https://server9.mp3quran.net/qurashi/",
+    "nameRu": "Ясир Аль-Кураши"
+  },
+  {
+    "id": 95,
+    "name": "Yasser Al-Mazroyee",
+    "server": "https://server9.mp3quran.net/mzroyee/",
+    "nameRu": "Ясир Аль-Мазруи"
+  },
+  {
+    "id": 96,
+    "name": "Yahya Hawwa",
+    "server": "https://server12.mp3quran.net/yahya/",
+    "nameRu": "Яхья Хавва"
+  },
+  {
+    "id": 97,
+    "name": "Yousef Al-Shoaey",
+    "server": "https://server9.mp3quran.net/yousef/",
+    "nameRu": "Юсуф Аль-Шоаи"
+  },
+  {
+    "id": 98,
+    "name": "Abdullah Abdal",
+    "server": "https://server16.mp3quran.net/a_abdl/Rewayat-Hafs-A-n-Assem/",
+    "nameRu": "Абдуллах Абдал"
+  }
+]
